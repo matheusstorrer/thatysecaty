@@ -15,7 +15,7 @@
 }
 
 .context-dark h1, .bg-gray-700 h1, .bg-gray-800 h1, .bg-primary h1, .context-dark h2, .bg-gray-700 h2, .bg-gray-800 h2, .bg-primary h2, .context-dark h3, .bg-gray-700 h3, .bg-gray-800 h3, .bg-primary h3, .context-dark h4, .bg-gray-700 h4, .bg-gray-800 h4, .bg-primary h4, .context-dark h5, .bg-gray-700 h5, .bg-gray-800 h5, .bg-primary h5, .context-dark h6, .bg-gray-700 h6, .bg-gray-800 h6, .bg-primary h6, .context-dark [class^='heading-'], .bg-gray-700 [class^='heading-'], .bg-gray-800 [class^='heading-'], .bg-primary [class^='heading-'] {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .context-dark .form-input, .bg-gray-700 .form-input, .bg-gray-800 .form-input, .bg-primary .form-input,
@@ -23,7 +23,7 @@
 .bg-gray-700 .form-label,
 .bg-gray-800 .form-label,
 .bg-primary .form-label {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .context-dark .form-input, .bg-gray-700 .form-input, .bg-gray-800 .form-input, .bg-primary .form-input {
@@ -31,11 +31,11 @@
 }
 
 .context-dark .button.button-jerry:hover, .bg-gray-700 .button.button-jerry:hover, .bg-gray-800 .button.button-jerry:hover, .bg-primary .button.button-jerry:hover, .context-dark .button.button-jerry:active, .bg-gray-700 .button.button-jerry:active, .bg-gray-800 .button.button-jerry:active, .bg-primary .button.button-jerry:active, .context-dark .button.button-jerry.active, .bg-gray-700 .button.button-jerry.active, .bg-gray-800 .button.button-jerry.active, .bg-primary .button.button-jerry.active {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .context-dark .button-primary-outline, .bg-gray-700 .button-primary-outline, .bg-gray-800 .button-primary-outline, .bg-primary .button-primary-outline, .context-dark .button-primary-outline:focus, .bg-gray-700 .button-primary-outline:focus, .bg-gray-800 .button-primary-outline:focus, .bg-primary .button-primary-outline:focus {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .context-dark .owl-dot, .bg-gray-700 .owl-dot, .bg-gray-800 .owl-dot, .bg-primary .owl-dot, .context-dark .owl-dot:focus, .bg-gray-700 .owl-dot:focus, .bg-gray-800 .owl-dot:focus, .bg-primary .owl-dot:focus {
@@ -1167,7 +1167,7 @@ p + .list-marked {
 }
 
 .context-dark .list-social, .bg-gray-700 .list-social, .bg-gray-800 .list-social, .bg-primary .list-social {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 /*
@@ -2712,11 +2712,11 @@ textarea.form-input {
 }
 
 .context-dark .project-classic-title, .bg-gray-700 .project-classic-title, .bg-gray-800 .project-classic-title, .bg-primary .project-classic-title {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .context-dark .project-classic-text, .bg-gray-700 .project-classic-text, .bg-gray-800 .project-classic-text, .bg-primary .project-classic-text {
-	color: #C4956A;
+	color: #b76e79;
 }
 
 .project-modern {
@@ -2851,11 +2851,11 @@ textarea.form-input {
 }
 
 .context-dark .project-modern-info-item, .bg-gray-700 .project-modern-info-item, .bg-gray-800 .project-modern-info-item, .bg-primary .project-modern-info-item {
-	color: #C4956A;
+	color: #b76e79;
 }
 
 .context-dark .project-modern-address, .bg-gray-700 .project-modern-address, .bg-gray-800 .project-modern-address, .bg-primary .project-modern-address {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .ie-10 .project-modern,
@@ -4112,7 +4112,7 @@ p.rights a:hover {
 }
 
 .context-dark .title-style-1, .bg-gray-700 .title-style-1, .bg-gray-800 .title-style-1, .bg-primary .title-style-1 {
-	color: #C4956A;
+	color: #C4b76e79956A;
 }
 
 .context-dark .title-style-2, .bg-gray-700 .title-style-2, .bg-gray-800 .title-style-2, .bg-primary .title-style-2 {
