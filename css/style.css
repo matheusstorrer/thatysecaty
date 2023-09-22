@@ -11,7 +11,7 @@
 * Contexts
 */
 .context-dark, .bg-gray-700, .bg-gray-800, .bg-primary {
-	color: rgba(255, 255, 255, 0.5);
+	color: #b76e79;
 }
 
 .context-dark h1, .bg-gray-700 h1, .bg-gray-800 h1, .bg-primary h1, .context-dark h2, .bg-gray-700 h2, .bg-gray-800 h2, .bg-primary h2, .context-dark h3, .bg-gray-700 h3, .bg-gray-800 h3, .bg-primary h3, .context-dark h4, .bg-gray-700 h4, .bg-gray-800 h4, .bg-primary h4, .context-dark h5, .bg-gray-700 h5, .bg-gray-800 h5, .bg-primary h5, .context-dark h6, .bg-gray-700 h6, .bg-gray-800 h6, .bg-primary h6, .context-dark [class^='heading-'], .bg-gray-700 [class^='heading-'], .bg-gray-800 [class^='heading-'], .bg-primary [class^='heading-'] {
@@ -4075,7 +4075,7 @@ p.rights a:hover {
 }
 
 .context-dark p.rights, .bg-gray-700 p.rights, .bg-gray-800 p.rights, .bg-primary p.rights {
-	color: rgba(255, 255, 255, 0.7);
+	color: #b76e79;
 }
 
 [style*='z-index: 1000;'] {
@@ -4112,11 +4112,11 @@ p.rights a:hover {
 }
 
 .context-dark .title-style-1, .bg-gray-700 .title-style-1, .bg-gray-800 .title-style-1, .bg-primary .title-style-1 {
-	color: #C4b76e79956A;
+	color: #b76e79;
 }
 
 .context-dark .title-style-2, .bg-gray-700 .title-style-2, .bg-gray-800 .title-style-2, .bg-primary .title-style-2 {
-	color: rgba(255, 255, 255, 0.5);
+	color: #b76e79;
 }
 
 .caption-classic {
@@ -6533,11 +6533,11 @@ h1 + .tab-content {
 }
 
 .context-dark .nav-style-1 .nav-link:hover, .bg-gray-700 .nav-style-1 .nav-link:hover, .bg-gray-800 .nav-style-1 .nav-link:hover, .bg-primary .nav-style-1 .nav-link:hover, .context-dark .nav-style-1 .nav-link.active, .bg-gray-700 .nav-style-1 .nav-link.active, .bg-gray-800 .nav-style-1 .nav-link.active, .bg-primary .nav-style-1 .nav-link.active {
-	color: #ffffff;
+	color: #b76e79;
 }
 
 .context-dark .nav-style-1 .nav-link:hover::before, .bg-gray-700 .nav-style-1 .nav-link:hover::before, .bg-gray-800 .nav-style-1 .nav-link:hover::before, .bg-primary .nav-style-1 .nav-link:hover::before, .context-dark .nav-style-1 .nav-link.active::before, .bg-gray-700 .nav-style-1 .nav-link.active::before, .bg-gray-800 .nav-style-1 .nav-link.active::before, .bg-primary .nav-style-1 .nav-link.active::before {
-	color: #C4956A;
+	color: #b76e79;
 }
 
 /*
