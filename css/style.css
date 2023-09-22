@@ -491,7 +491,7 @@ a[href*='tel'], a[href*='mailto'] {
 	width: 27px;
 	height: 27px;
 	border-radius: 50%;
-	background: rgba(196, 149, 106, 0.5);
+	background: #b76e79;
 }
 
 .box-icon-classic-title {
