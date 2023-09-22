@@ -1144,7 +1144,7 @@ p + .list-marked {
 }
 
 .list-social .icon {
-	font-size: 22px;
+	font-size: 35px;
 	line-height: 1;
 }
 
@@ -1158,7 +1158,7 @@ p + .list-marked {
 
 @media (min-width: 768px) {
 	.list-social .icon {
-		font-size: 27px;
+		font-size: 35px;
 	}
 }
 
