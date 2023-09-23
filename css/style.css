@@ -4822,7 +4822,7 @@ html.tablet .ui-to-top {
 .rd-navbar-toggle span:after, .rd-navbar-toggle span:before, .rd-navbar-toggle span {
 	width: 28px;
 	height: 1px;
-	background-color: #ffffff;
+	background-color: #b76e79;
 	backface-visibility: hidden;
 	border-radius: 0;
 }
