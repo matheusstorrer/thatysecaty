@@ -6525,7 +6525,7 @@ h1 + .tab-content {
 }
 
 .context-dark .nav-style-1, .bg-gray-700 .nav-style-1, .bg-gray-800 .nav-style-1, .bg-primary .nav-style-1 {
-	color: rgba(255, 255, 255, 0.3);
+	color: #b76e798f;
 }
 
 .context-dark .nav-style-1 .nav-link::before, .bg-gray-700 .nav-style-1 .nav-link::before, .bg-gray-800 .nav-style-1 .nav-link::before, .bg-primary .nav-style-1 .nav-link::before {
