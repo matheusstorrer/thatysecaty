@@ -1404,13 +1404,13 @@ hr {
 }
 
 .button-gray-100, .button-gray-100:focus {
-	color: #dfdfdf;
+	color: #313131;
 	background-color: #f5f5f5;
 	border-color: #f5f5f5;
 }
 
 .button-gray-100:hover, .button-gray-100:active, .button-gray-100.active {
-	color: #dfdfdf;
+	color: #313131;
 	background-color: #e8e8e8;
 	border-color: #e8e8e8;
 }
@@ -2326,7 +2326,7 @@ textarea.form-input {
 .form-style-1 {
 	max-width: 530px;
 	padding: 20px;
-	background: #dfdfdf;
+	background: #313131;
 	border-radius: 7px;
 }
 
@@ -2558,7 +2558,7 @@ textarea.form-input {
 	margin-right: auto;
 	color: #ffffff;
 	text-align: left;
-	background-color: #dfdfdf;
+	background-color: #313131;
 	border-radius: 0;
 	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
 	font-size: 14px;
@@ -2600,7 +2600,7 @@ textarea.form-input {
 */
 .footer-classic {
 	text-align: center;
-	background: #dfdfdf;
+	background: #313131;
 }
 
 @media (min-width: 992px) {
@@ -2725,7 +2725,7 @@ textarea.form-input {
 	align-items: center;
 	justify-content: center;
 	min-height: 100px;
-	background: #dfdfdf;
+	background: #313131;
 }
 
 .project-modern-info {
@@ -2750,7 +2750,7 @@ textarea.form-input {
 }
 
 .project-modern-address {
-	color: #dfdfdf;
+	color: #313131;
 }
 
 .project-modern-decor {
@@ -2923,7 +2923,7 @@ textarea.form-input {
 
 .project-mary-link:hover {
 	color: #ffffff;
-	background: #dfdfdf;
+	background: #313131;
 }
 
 .project-mary-link img {
@@ -3958,7 +3958,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-gray-800 {
-	background-color: #dfdfdf;
+	background-color: #313131;
 }
 
 .bg-gray-800:not([style*="background-"]) + .bg-gray-800:not([style*="background-"]) {
@@ -5411,7 +5411,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-collapse {
-	background-color: #dfdfdf;
+	background-color: #313131;
 	box-shadow: 0 0 22px -4px rgba(0, 0, 0, 0.17);
 }
 
