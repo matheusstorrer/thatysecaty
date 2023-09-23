@@ -4187,7 +4187,7 @@ p.rights a:hover {
 }
 
 .decoration-1.context-dark::before, .decoration-1.bg-gray-700::before, .decoration-1.bg-gray-800::before, .decoration-1.bg-primary::before, .decoration-1.context-dark::after, .decoration-1.bg-gray-700::after, .decoration-1.bg-gray-800::after, .decoration-1.bg-primary::after {
-	border-color: rgba(255, 255, 255, 0.05);
+	border-color: #313131;
 }
 
 /** @group Plugins */
